@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working **as a freelancer**
 
-- 🌱 I’m currently learning **DSA(java)**
+- 🌱 I’m currently learning **Backend(node)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
