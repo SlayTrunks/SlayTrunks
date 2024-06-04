@@ -20,6 +20,7 @@
 
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="sanamhub's streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaytrunks&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=
+  4296f5&hide_border=true&background=00000000" alt="insane's streak" />
 </a>
 </p>
