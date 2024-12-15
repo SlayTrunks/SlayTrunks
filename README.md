@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm slaytrunks
-a mern stack developer.<br>
+a full stack developer.<br>
 
 
 # 💻 Tech Stack:
